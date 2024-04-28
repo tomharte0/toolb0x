@@ -1,0 +1,46 @@
+[
+    {
+        "title": "Find matching gradients",
+        "url": "https://mycolor.space/",
+        "image": "https://mycolor.space/img/color-space-logo.png"
+    },
+    {
+        "title": "Custom CSS Shape Divider",
+        "url": "https://www.shapedivider.app/",
+        "image": "https://www.shapedivider.app/img/logo_500x500.18aca7aa.png"
+    },
+
+    {
+        "title": "Test your frontend",
+        "url": "https://codepen.io",
+        "image": "https://seeklogo.com/images/C/codepen-logo-FDEB3664F1-seeklogo.com.png"
+    },
+    {
+        "title": "WebCode generators",
+        "url": "https://webcode.tools/",
+        "image": "https://global.discourse-cdn.com/business7/uploads/glideapps/optimized/3X/d/8/d8609414784b4171f41b21ba84afc3cb2ca16342_2_690x360.jpeg"
+    },
+    {
+        "title": "Find open data",
+        "url": "https://www.kaggle.com/",
+        "image": "https://www.kaggle.com/static/images/site-logo.svg"
+    },
+
+    {
+        "title": "Deep search the web",
+        "url": "https://search.censys.io/",
+        "image": "https://search.censys.io/static/img/censys-2022.svg"
+    },
+    {
+        "title": "Phishing quiz",
+        "url": "https://phishingquiz.withgoogle.com/",
+        "image": "https://cdn.iconscout.com/icon/free/png-256/free-phishing-attack-1591605-1354005.png?f=webp"
+    }
+    ,
+    {
+        "title": "Search for hidden services",
+        "url": "https://ahmia.fi/",
+        "image": "https://cdn.icon-icons.com/icons2/2389/PNG/512/tor_logo_icon_144796.png"
+    }
+    
+]
